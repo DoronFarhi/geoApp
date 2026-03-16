@@ -1,1 +1,8 @@
+# Claude Personal Settings
 CLAUDE.local.md
+
+# Environment Variables
+.env
+
+# Dependencies
+node_modules/
